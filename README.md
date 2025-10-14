@@ -25,7 +25,7 @@ Loan Balance: 30 missing entries
 Planned solutions:
 - Use the median to fill missing numeric values
 - Apply AI-generated synthetic data where appropriate for Loan Balance
-- 
+  
 ## Key Insights and Risk Factors
 
 The analysis indicates a strong link between high credit utilization and delinquency, as well as a clear risk associated with frequent missed payments.
